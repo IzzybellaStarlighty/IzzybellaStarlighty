@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FCNUb51EbTxuRG%2Fgiphy.gif&f=1&nofb=1&ipt=368eb572997699aeb55f313f31e62bd431f29f260c11c511b97a2d1d1f22b419" width="35"> <b>Hello Hello! I'm Isabel </b></h1>
+<h1 align="center"> <b>Hello Hello! I'm Isabel </b></h1>
 
 <div align="center"><img alt="pikachu" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fanime-girl-peeking-super-ultra-wide-banner-8tt1yja4ofdrabji.jpg&f=1&nofb=1&ipt=ed277986cd90fb806d78b042ffa39e096b2e74f0876303f1dd864ce3679cf24f" /></div>
 
